@@ -1,2 +1,2 @@
 # unsortedArray
-an unsorted array implementation using c++
+an unsorted array implementation using C++
